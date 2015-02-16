@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer name="box_count">256</integer>
+    <integer name="box_count">100</integer>
 </resources>
